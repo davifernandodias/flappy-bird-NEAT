@@ -18,6 +18,7 @@ O jogo Flappy Bird é um clássico em que o jogador controla um pássaro que voa
 - Python 🐍
 - Pygame (para a implementação do jogo)
 - Bibliotecas de aprendizado de máquina para o treinamento.
+- Utilizando metodo de NEAT.
 
 ## Instalação
 

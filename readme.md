@@ -1,34 +1,37 @@
-# Flappy Bird com Inteligência Artificial 🐦🤖
+ ## This project is an implementation of the Flappy Bird game with an artificial intelligence agent trained to play the game automatically.
+
+<center><img width="766" alt="inputs_diagram" src="https://github.com/davifernandodias/flappy-bird-NEAT/assets/134711641/a2ace9fc-3e75-4ace-bd81-2aed53deaeed">
 
 
-Este projeto é uma implementação do jogo Flappy Bird com um agente de inteligência artificial treinado para jogar o jogo automaticamente.
 
-## Descrição
 
-O jogo Flappy Bird é um clássico em que o jogador controla um pássaro que voa entre tubos verdes, tentando evitar colisões. Neste projeto, implementamos uma versão do jogo e treinamos um agente de inteligência artificial usando algoritmos de aprendizado por reforço para jogar o jogo de forma autônoma.
 
-## Funcionalidades
+>  Info project
 
-- Jogo Flappy Bird funcional.
-- Agente de inteligência artificial treinado para jogar automaticamente.
-- Interface gráfica amigável.
+The Flappy Bird game is a classic in which the player controls a bird that flies between green tubes, trying to avoid collisions. In this project, we implemented a version of the game and trained an artificial intelligence agent using reinforcement learning algorithms to play the game autonomously.
 
-## Tecnologias Utilizadas
+## Functionalities
+
+- Functional Flappy Bird game.
+- Artificial intelligence agent trained to play automatically.
+- User-friendly graphical interface.
+
+## Technologies Used
 
 - Python 🐍
-- Pygame (para a implementação do jogo)
-- Bibliotecas de aprendizado de máquina para o treinamento.
-- Utilizando metodo de NEAT.
+- Pygame (for game implementation)
+- Machine learning libraries for training.
+- Using NEAT method.
 
-## Instalação
+## Installation
 
-1. Clone o repositório:
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/davifernandodias/Flappy-Bird-NEAT.git
 
 ##
- Este projeto foi sugerido e instruido pela Hashtag Programação, uma instituição dedicada a oferecer conteúdo educacional e prático em programação e desenvolvimento de software. O projeto visa proporcionar uma experiência prática e envolvente para os alunos, permitindo que eles apliquem os conhecimentos adquiridos durante o curso.
+This project was suggested and instructed by Hashtag Programação, an institution dedicated to offering educational and practical content in programming and software development. The project aims to provide a practical and engaging experience for students, allowing them to apply the knowledge acquired during the course.
 ```
    link video: https://www.youtube.com/watch?v=WSPstecsF90&list=PLpdAy0tYrnKyVQDckS5IDB24QrSap2u8y&index=2
 

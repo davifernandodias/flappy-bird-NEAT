@@ -28,7 +28,7 @@ The Flappy Bird game is a classic in which the player controls a bird that flies
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/davifernandodias/Flappy-Bird-NEAT.git
+   git clone https://github.com/davifernandodias/flappy-bird-NEAT.git
 
 ##
 This project was suggested and instructed by Hashtag Programação, an institution dedicated to offering educational and practical content in programming and software development. The project aims to provide a practical and engaging experience for students, allowing them to apply the knowledge acquired during the course.
